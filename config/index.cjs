@@ -13,8 +13,8 @@ const USER_CONFIG = {
   // 使用微信测试号：公众号APP_SECRET
   APP_SECRET: '8ef11abf8f85fc827abf7cd82712e0cb',
 
-  PROVINCE: '浙江',
-  CITY: '杭州',
+  PROVINCE: '贵州',
+  CITY: '六盘水',
   name: '美美',
 
   // 功能开关,打开：true，关闭：false
@@ -89,9 +89,9 @@ const USER_CONFIG = {
       // 想要发送的人的名字
       name: '美美',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'oMFva6bUk5x1_RFq9JXwTJYJB5QI',
+      id: 'oMFva6e3RW7h06fzRKFEUaeLh2Zg',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'ziGPepwMMiVA2NtjZPsfkWrk41T6XJ4R9iWKN8Ib4Ng',
+      useTemplateId: 'szXAYaSr9WJl64CXoiiGGd0x2xwulN_das3mlWywQf8',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '03-29',
       horoscopeDateType: '今日',
