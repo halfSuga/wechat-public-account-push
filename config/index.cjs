@@ -13,8 +13,8 @@ const USER_CONFIG = {
   // 使用微信测试号：公众号APP_SECRET
   APP_SECRET: '8ef11abf8f85fc827abf7cd82712e0cb',
 
-  PROVINCE: '贵州',
-  CITY: '六盘水',
+  PROVINCE: '湖北',
+  CITY: '武穴',
   name: '美美',
 
   // 功能开关,打开：true，关闭：false
